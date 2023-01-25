@@ -1,0 +1,19 @@
+.dashed {
+    border-style: dashed;
+    border-color: red;
+    width: 300px;
+    padding: 10px;
+    border: 20px red;
+    height: 200px;
+    margin: 50px;
+    border-style: dashed ;
+          }
+/* .dashedSecond {
+            border: 20px dotted lime;
+            width: 600px;
+            padding: 50px;
+            height: 300px;
+            margin: 100px;
+            background-color: bisque;
+                  } */
+
